@@ -82,11 +82,12 @@ h2{
     font-size: 2rem;
     line-height: 1.5;
 }
-.testimonials-image{
+.testimonial-image{
     width: 10%;
     border-radius: 100%;
     margin: 20px;
 }
+
 
 /* press section */
 #press{
